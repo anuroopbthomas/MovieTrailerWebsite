@@ -1,6 +1,6 @@
 # MovieTrailerWebsite
 
-In order to use this website properly, please make sure that you download the repository locally and test it on your own
+In order to use this website properly, please make sure that you download the repository locally and test it on your own. Comments and code are all available to read within the `/movies` folder
 
 Otherwise, if you'd like to see the page on a static public site, here is the link
 
@@ -10,7 +10,7 @@ Otherwise, if you'd like to see the page on a static public site, here is the li
 
 1. Download the repo locally into a destination of your choice
 
-2. In a terminal or in Python IDLE, direct yourself to the 'movies' folder wherever you stored it
+2. In a terminal or in Python IDLE, direct yourself to the `/movies` folder wherever you stored it
 
 3. Run `python entertainment_center.py`
 
